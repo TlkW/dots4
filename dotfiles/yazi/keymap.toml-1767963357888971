@@ -1,0 +1,5 @@
+[[manager.prepend_keymap]]
+on   = [ "g", "i" ]
+run  = "cd ~/Imagens/"
+desc = "Ir para a pasta Imagens"
+
